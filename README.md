@@ -1,6 +1,6 @@
 # Project Name Digital Traning Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with https://boring-keller-ffdd6c.netlify.app
 
 ## Its a digital Content service website
 ## Here I make 4 route 
